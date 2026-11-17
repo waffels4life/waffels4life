@@ -1,5 +1,6 @@
 Computer Engineering student.
 
 ![Java](https://img.shields.io/badge/Java-F3E9D2?style=for-the-badge&logo=openjdk&logoColor=000000)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-F3E9D2?style=for-the-badge&logo=intellij-idea&logoColor=000000)
+![Maven](https://img.shields.io/badge/Maven-F3E9D2?style=for-the-badge&logo=apachemaven&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-F3E9D2?style=for-the-badge&logo=git&logoColor=000000)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-F3E9D2?style=for-the-badge&logo=intellij-idea&logoColor=000000)
